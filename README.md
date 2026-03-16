@@ -9,9 +9,9 @@
 
 - 👯 Estou procurando colaborar em **Posições de Estágio.**
 
-- 📫 Como chegar até mim **jakelinelirabr@gmail.com**
+- 📫 Como chegar até mim: **jakelinelirabr@gmail.com**
 
-- ⚡ Curiosidade **Crio bugs desde 2026.**
+- ⚡ Curiosidade: **Crio bugs desde 2026.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
