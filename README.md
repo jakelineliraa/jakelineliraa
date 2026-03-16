@@ -1,0 +1,29 @@
+<h1 align="center">Olá 👋, sou Jakeline Lira!</h1>
+<h3 align="center">Uma apaixonada estudante de Engenharia de Software do Brasil.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakelineliraa&label=Profile%20views&color=0e75b6&style=flat" alt="jakelineliraa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jakelineliraa" alt="jakelineliraa" /></a> </p>
+
+- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript.**
+
+- 👯 Estou procurando colaborar em **Posições de Estágio.**
+
+- 📫 Como chegar até mim **jakelinelirabr@gmail.com**
+
+- ⚡ Curiosidade **Crio bugs desde 2026.**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="esquerda">
+<a href="https://linkedin.com/in/in/jakeline-lira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jakeline-lira" height="30" width="40" /></a>
+<a href="https://instagram.com/jakeline.liraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakeline.liraa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="esquerda"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" altura="40"/> </um> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" largura="40" altura="40"/> </um> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </um> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </um> </p>noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </um> </p>noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </um> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakelineliraa&show_icons=true&locale=en&layout=compact" alt="jakelineliraa" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakelineliraa&show_icons=true&locale=en" alt="jakelineliraa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakelineliraa&" alt="jakelineliraa" /></p>
