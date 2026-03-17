@@ -15,7 +15,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="esquerda">
-<a href="https://linkedin.com/in/in/jakeline-lira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jakeline-lira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jakeline-lira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jakeline-lira" height="30" width="40" /></a>
 <a href="https://instagram.com/jakeline.liraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakeline.liraa" height="30" width="40" /></a>
 </p>
 
